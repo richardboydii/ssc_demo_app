@@ -1,2 +1,3 @@
-# demo_flask_app
-A simple demo flask web app.
+# Demo Flask App
+
+This is a very simple Flask app that can be used for testing CI/CD services.
